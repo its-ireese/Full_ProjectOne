@@ -1,21 +1,29 @@
-<h2> Reimbursement Project </h2>
-Project Description
-Here goes your awesome project description!
+<h1> Reimbursement Project </h1>
+<h3>Project Description</h3>
+<p> Here is my first ever full stack project. This project is a simple reimbursement system that would be inside of company that allows employees to submit reimbursements from purchases for the business. The manager will be able to see all of the request and as well approve or deny them. </p>
 
-Technologies Used
-Tech 1 - version 1.0
-Tech 2 - version 2.0
-Tech 3 - version 3.0
-Features
-List of features ready and TODOs for future development
+<h3>Technologies Used</h3>
+  - Javalin 
+  - JDBC
+  - Angular 
+  - PostgreSQL
+  - Maven
+  - Postman
+  - 
 
-Awesome feature 1
-Awesome feature 2
-Awesome feature 3
-To-do list:
+<h3> Features</h3>
+<h5>List of features ready and TODOs for future development</h5>
+  - Employees can submit an reimbursement request
+  - Employees can view their profile information
+  - Managers can accept or deny a request
+  - Managers can see all of the employees of the company 
+  
+<h5> To-do list: </h5>
+  - Employees can upload an image with their reimbursement request
+  - Allowing the system to send out an email to the employees with an update once request is resolved
 
-Wow improvement to be done 1
-Wow improvement to be done 2
+
+
 Getting Started
 (include git clone command) (include all environment setup steps)
 
