@@ -10,8 +10,7 @@
   - PostgreSQL
   - Maven
   - Postman
-  - 
-
+--------------------------------------------
 <h3> Features</h3>
 <h5>List of features ready and TODOs for future development</h5>
   - Employees can submit an reimbursement request
@@ -23,16 +22,16 @@
   - Employees can upload an image with their reimbursement request
   - Allowing the system to send out an email to the employees with an update once request is resolved
 
-
+--------------------------------
 
 <h3>Getting Started</h3>
 (include git clone command) 
 (include all environment setup steps)
 
-
+------------
 <h3>Usage</h3>
 Here, you instruct other people on how to use your project after they’ve installed it.
 This would also be a good place to include screenshots of your project in action.
 
-License
-This project uses the following license: <license_name>.
+-----------
+
